@@ -10,6 +10,7 @@ A machine-learning project investigating whether the **language used in Amazon p
 - **Dataset:** [datasets/amazon.csv](./datasets/amazon.csv)
 - **Project video:** https://www.youtube.com/watch?v=-ZV_pPy97YE
 - **Original course README:** [COURSE_README.md](./COURSE_README.md)
+- **Team contribution record:** [TEAM_CONTRIBUTIONS.md](./TEAM_CONTRIBUTIONS.md)
 
 ## Run Locally
 
