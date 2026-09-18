@@ -11,6 +11,21 @@ A machine-learning project investigating whether the **language used in Amazon p
 - **Project video:** https://www.youtube.com/watch?v=-ZV_pPy97YE
 - **Original course README:** [COURSE_README.md](./COURSE_README.md)
 
+## Run Locally
+
+```bash
+git clone https://github.com/nhdoan0412/amazon-product-price-prediction.git
+cd amazon-product-price-prediction
+
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+
+jupyter notebook FinalProject_Group041_SP25.ipynb
+```
+
+The dataset used by the final notebook is included at `datasets/amazon.csv`.
+
 ## Project Snapshot
 
 - **Dataset:** 1,465 Amazon product listings, 16 original variables
