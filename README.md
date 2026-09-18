@@ -113,18 +113,23 @@ The analysis also found:
 - most products were concentrated in the lower price range,
 - technical terms and specifications were prominent in product descriptions.
 
-## My Contributions
+## Collaboration & Contributions
 
-**Nhan Doan (Nick)**
+This was a **5-person team project**. The contribution breakdown below is taken from the **Team Contributions section of our final submitted COGS 108 notebook**.
 
-- refined the research question,
-- sourced the dataset from Kaggle,
-- cleaned and preprocessed the dataset,
-- conducted TF-IDF feature extraction,
-- performed exploratory data analysis,
-- contributed to the prediction model,
-- contributed to the final presentation video,
-- refined the final report.
+| Team member | Documented contributions |
+| --- | --- |
+| **Nhan Doan (Nick)** | Refined the research question; sourced datasets from Kaggle; handled dataset cleaning and preprocessing; conducted TF-IDF feature extraction and exploratory data analysis; contributed to the prediction model, final video, and final-report refinement. |
+| **Hansel Puthenparambil** | Worked on the prediction model; created EDA visualizations; helped craft the conclusion and final video. |
+| **Karan Derebail** | Wrote explanatory analysis for EDA visualizations; assisted with EDA and model code; contributed to the final video. |
+| **Zachary Elian** | Contributed to the final video; wrote in-depth analysis; helped refine the research question and gather datasets. |
+| **Joshua McDevitt** | Created EDA graphs and helped find datasets; wrote explanations for visualizations and data insights; worked on the final presentation and video. |
+
+### My role
+
+My work centered on the **data/NLP pipeline and analysis**: dataset sourcing and cleaning, preprocessing, TF-IDF feature extraction, EDA, and contributions to the prediction model. I also helped refine the research question, final report, and presentation video.
+
+This project gave me experience working across a shared data-science workflow where teammates divided responsibility across **data preparation, analysis, visualization, modeling, interpretation, and presentation**, then integrated those pieces into one final notebook.
 
 ## Tech Stack
 
@@ -156,19 +161,10 @@ This repository is the **public portfolio mirror** of our UC San Diego COGS 108 
 
 The original course repository, `COGS108/Group041_SP25`, is private. I also retained a true GitHub fork at `nhdoan0412/Group041_SP25` so the original team commit history and repository provenance are preserved.
 
-The public mirror exists so recruiters and collaborators can review the project while the private fork remains the source-of-truth copy for the original course history.
+The public mirror exists so recruiters and collaborators can review the project while the private fork remains the source-of-truth copy for the original course history. I intentionally do **not** republish the private Git history here because commit metadata can contain collaborators' personal information. Team attribution in this public repository instead follows the final submitted notebook's explicit contribution record.
 
 The final course notebook explicitly selected **YES — make available** for public release.
 
-## Team
-
-The project was completed by:
-
-- Nhan Doan
-- Karan Derebail
-- Hansel Puthenparambil
-- Zachary Elian
-- Joshua McDevitt
 
 ## Limitations & Future Work
 
