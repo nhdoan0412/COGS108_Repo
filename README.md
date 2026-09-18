@@ -4,6 +4,13 @@
 
 A machine-learning project investigating whether the **language used in Amazon product descriptions can predict electronics prices**.
 
+## Quick Links
+
+- **Final analysis:** [FinalProject_Group041_SP25.ipynb](./FinalProject_Group041_SP25.ipynb)
+- **Dataset:** [datasets/amazon.csv](./datasets/amazon.csv)
+- **Project video:** https://www.youtube.com/watch?v=-ZV_pPy97YE
+- **Original course README:** [COURSE_README.md](./COURSE_README.md)
+
 ## Project Snapshot
 
 - **Dataset:** 1,465 Amazon product listings, 16 original variables
@@ -128,6 +135,16 @@ The analysis also found:
 | `datasets/amazon.csv` | Public Amazon dataset used in the analysis |
 | `COURSE_README.md` | Original course-repository README |
 
+## Project Provenance
+
+This repository is the **public portfolio mirror** of our UC San Diego COGS 108 Group 041 project.
+
+The original course repository, `COGS108/Group041_SP25`, is private. I also retained a true GitHub fork at `nhdoan0412/Group041_SP25` so the original team commit history and repository provenance are preserved.
+
+The public mirror exists so recruiters and collaborators can review the project while the private fork remains the source-of-truth copy for the original course history.
+
+The final course notebook explicitly selected **YES — make available** for public release.
+
 ## Team
 
 The project was completed by:
@@ -137,8 +154,6 @@ The project was completed by:
 - Hansel Puthenparambil
 - Zachary Elian
 - Joshua McDevitt
-
-The original COGS 108 submission explicitly selected **YES — make available** for public release.
 
 ## Limitations & Future Work
 
